@@ -1,0 +1,15 @@
+{
+    "name": "koala-9527/composer-build",
+    "description": "just test",
+    "type": "library",
+    "require": {
+        "php": "7.4.30"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    }
+}
