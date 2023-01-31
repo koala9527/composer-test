@@ -3,7 +3,7 @@
     "description": "just test",
     "type": "library",
     "require": {
-        "php": "7.4.30"
+        "php": "7.4.26"
     },
     "license": "MIT",
     "minimum-stability": "dev",
